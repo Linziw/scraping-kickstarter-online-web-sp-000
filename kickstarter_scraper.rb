@@ -11,7 +11,6 @@ require "pry"
 
 # file: kickstarter_scraper.rb
  
-...
  
 def create_project_hash
   html = File.read('fixtures/kickstarter.html')
